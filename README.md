@@ -75,8 +75,8 @@ Scanner-first triage pipeline: Semgrep finds it, deterministic logic clusters it
 
 <div align="center">
 
-### 🧩 Open Source — [`precogly`](https://github.com/precogly/precogly)
-Contributed 4 merged taxonomy library packs (539 total entries) mapping MITRE ATLAS, CWE, CAPEC, and ATT&CK Enterprise into the platform's threat-modeling schema — extracted and curated from MITRE's own published data sources, validated against the project's pack-loader with zero schema errors.
+### 🧩 Open Source - [`precogly`](https://github.com/precogly/precogly)
+Contributed 4 merged taxonomy library packs (539 total entries) mapping MITRE ATLAS, CWE, CAPEC, and ATT&CK Enterprise into the platform's threat-modeling schema that extracted and curated from MITRE's own published data sources, validated against the project's pack-loader with zero schema errors.
 
 [![PR #143](https://img.shields.io/badge/PR-%23143%20mitre--atlas-6e40c9?style=flat-square)](https://github.com/precogly/precogly/pull/143)
 [![PR #144](https://img.shields.io/badge/PR-%23144%20cwe-6e40c9?style=flat-square)](https://github.com/precogly/precogly/pull/144)
